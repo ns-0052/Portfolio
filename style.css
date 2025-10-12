@@ -144,32 +144,32 @@ nav a:hover {
 }
 
 /* --- Projects Section --- */
-.projects {
+.educations {
   padding: 100px 60px;
   background: #1e293b;
   text-align: center;
 }
 
-.projects h2 {
+.educations h2 {
   color: #38bdf8;
   font-size: 32px;
   margin-bottom: 40px;
 }
 
-.project-grid {
+.education-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   gap: 20px;
 }
 
-.project {
+.education {
   background: #0f172a;
   padding: 20px;
   border-radius: 12px;
   transition: 0.3s;
 }
 
-.project:hover {
+.education:hover {
   transform: translateY(-10px);
   box-shadow: 0 0 20px #38bdf8;
 }
